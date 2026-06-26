@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋 I'm Akhil Gaikwad
 
-<!--
-**AKHIL-cloud9/Akhil-cloud9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Interested in
+- Full Stack Development
+- Java Development
+- AWS Cloud
+- Docker
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Java
+- C
+- Python
+- JavaScript
+- React
+- HTML
+- CSS
+- SQL
+- Git
+- Docker
+- AWS
+
+## Currently Learning
+
+- System Design
+- DSA
+- Cloud Computing
+
+## Contact
+
+Email: akhilgaikwad2005sbi@gmail.com
+LinkedIn: # Hi 👋 I'm Akhil Gaikwad
+
+🎓 B.Tech Computer Science Student
+
+💻 Interested in
+- Full Stack Development
+- Java Development
+- AWS Cloud
+- Docker
+- Software Engineering
+
+## Skills
+
+- Java
+- C
+- Python
+- JavaScript
+- React
+- HTML
+- CSS
+- SQL
+- Git
+- Docker
+- AWS
+
+## Currently Learning
+
+- System Design
+- DSA
+- Cloud Computing
+
+## Contact
+
+Email: your@email.com
+LinkedIn: linkedin.com/in/yourprofile
